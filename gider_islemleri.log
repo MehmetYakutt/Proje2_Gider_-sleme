@@ -1,0 +1,18 @@
+2025-04-26 13:26:30,868 - INFO - Gider iþleme script'i baþlatýldý.
+2025-04-26 13:26:30,868 - INFO - 'giderler.csv' okunuyor...
+2025-04-26 13:26:31,044 - INFO - 5 adet gider kaydý baþarýyla okundu.
+2025-04-26 13:26:31,109 - INFO - Temel veri kalitesi kontrolü yapýldý (Negatif miktar yok).
+2025-04-26 13:26:31,131 - INFO - Toplam gider hesaplandý: 771.50
+2025-04-26 13:26:31,191 - INFO - Kategori bazlý giderler hesaplandý:
+Kategori
+Fatura    310.75
+Market    265.75
+Ulaþým     65.00
+Yemek     130.00
+Name: Miktar, dtype: float64
+2025-04-26 13:26:31,192 - INFO - 'ilk_veritabanim.db' veritabanýna baðlanýlýyor...
+2025-04-26 13:26:31,193 - INFO - Veritabaný baðlantýsý baþarýlý.
+2025-04-26 13:26:31,193 - INFO - Veriler 'gider_kayitlari' tablosuna yazýlýyor ('replace' modu)...
+2025-04-26 13:26:31,269 - INFO - Veriler veritabanýna baþarýyla yazýldý.
+2025-04-26 13:26:31,271 - INFO - Veritabaný baðlantýsý kapatýldý.
+2025-04-26 13:26:31,271 - INFO - Gider iþleme script'i tamamlandý.
